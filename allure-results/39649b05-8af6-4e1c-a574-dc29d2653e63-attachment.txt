@@ -1,0 +1,1 @@
+Сравниваем значения: 56c7354c-1e57-554c-14bb-a2d7ee9deeeb и command = [     "pytest",     "-v",     "--lf",  # Для запуска только упавших тестов     "--reruns", "0",  # Запрещаем повторные попытки выполнения тестов     "--alluredir=./allure-failed-results"  # Для сохранения результатов в каталог allure-failed-results ]

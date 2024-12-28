@@ -1,0 +1,1 @@
+{"name": "Client Side Delay", "status": "skipped", "parameters": [{"name": "driver", "value": "'firefox'"}], "start": 1735399643298, "stop": 1735399643298, "uuid": "92b0f538-026b-4439-a078-979215b66490", "testCaseId": "642b01c7fa2ecf78790dc64818340326", "fullName": "tests.test_features_ui_playground.TestFeaturesUiPlayground#test_client_side_delay_page"}
