@@ -1,0 +1,1 @@
+Сравниваем значения: 7ef067cb-8db5-0052-7942-afc1984a128a и from selenium.webdriver.chrome.options import Options as ChromeOptions from selenium.webdriver.firefox.options import Options as FirefoxOptions

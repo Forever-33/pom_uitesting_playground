@@ -1,0 +1,1 @@
+{"name": "Shadow DOM", "status": "skipped", "parameters": [{"name": "driver", "value": "'firefox'"}], "start": 1735399646419, "stop": 1735399646419, "uuid": "ec84fec9-c5d6-4b7b-92cc-59ceb52fd933", "testCaseId": "ad906fd301850e1235d3dc8e72155adf", "fullName": "tests.test_features_ui_playground.TestFeaturesUiPlayground#test_shadow_dom"}
