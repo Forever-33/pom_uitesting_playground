@@ -1,1 +1,0 @@
-Сравниваем значения: 67279463-1ae7-091b-9d84-3210b961b256 и # @pytest.fixture(scope="function", autouse=True)

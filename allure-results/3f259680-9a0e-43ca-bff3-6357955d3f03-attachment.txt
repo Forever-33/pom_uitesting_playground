@@ -1,1 +1,0 @@
-Сравниваем значения: 588d46f9-c4bb-cd61-7a4b-6237a70a9c8e и --reruns 2 --reruns-delay 1 --lf

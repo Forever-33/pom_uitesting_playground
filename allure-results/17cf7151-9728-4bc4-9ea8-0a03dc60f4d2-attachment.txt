@@ -1,1 +1,0 @@
-Сравниваем значения: e68cd1b9-79b9-2a99-fa2d-2740b3732067 и from selenium.webdriver.edge.options import Options as EdgeOptions

@@ -1,1 +1,0 @@
-{"name": "AJAX data", "status": "skipped", "parameters": [{"name": "driver", "value": "'firefox'"}], "start": 1735399644013, "stop": 1735399644013, "uuid": "bed1c3aa-5b87-47d3-9cf2-d25b470b1298", "testCaseId": "f0388550053a53ad892d2fa3f102c1ad", "fullName": "tests.test_features_ui_playground.TestFeaturesUiPlayground#test_ajax_data"}
